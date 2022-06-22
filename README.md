@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco</h1>
-<h3 align="center">This Github page hosts some of my best (and worst) programming projects. Enjoy!</h3>
+<h3 align="center">This Github page hosts some of my best (and worst) coding projects. Enjoy!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fnccpp" alt="fnccpp" /></a> </p>
 
